@@ -26,7 +26,7 @@ A dynamic, general-purpose object-oriented programming language that combines sy
 * Read examples of source code, like [this one](https://github.com/jferris/effigy/tree/master/lib)
 * Read Chapters 23 and 24 of [The Pickaxe](http://amzn.com/1934356085)
 * Go through [CodeWars](http://www.codewars.com)
-
+* Go through [Rubeque](http://www.rubeque.com/)
 ### You should be able to
 
 * Compare objects.
