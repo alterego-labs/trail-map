@@ -25,6 +25,7 @@ An open source full-stack web application framework for the Ruby programming lan
 
 * Complete thoughtbot's [Intermediate Ruby on Rails Tutorial](http://upcase.com/intermediate-ruby-on-rails)
 * Read [Agile Web Development with Rails](http://pragprog.com/book/rails4/agile-web-development-with-rails-4)
+* Read [Enterprise Rails](http://dan.chak.org/enterprise-rails/)
 * Watch [Humans Present: Refactoring](https://upcase.com/videos/refactoring)
 * Complete the [RailsApps tutorials](https://tutorials.railsapps.org)
 * Watch [Railscasts](http://railscasts.com)
@@ -42,8 +43,10 @@ An open source full-stack web application framework for the Ruby programming lan
 * Add pagination to your application.
 
 ## Advanced Rails
-
 * Complete [thoughtbot's Test-Driven Rails Tutorial](https://test-driven-rails)
+* Read [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
+* Read [The RSpec Book: Behaviour-Driven Development with RSpec, Cucumber, and Friends](https://pragprog.com/book/achbd/the-rspec-book)
+* Read [The Cucumber Book: Behaviour-Driven Development for Testers and Developers](https://pragprog.com/book/hwcuc/the-cucumber-book)
 * Watch [Improving Rails Performance](https://upcase.com/improving-rails-performance)
 * Complete [Rails Testing for Zombies](http://www.codeschool.com/courses/rails-testing-for-zombies)
 * Read open source code: [example](https://github.com/copycopter/copycopter-server)
