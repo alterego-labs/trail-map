@@ -7,6 +7,7 @@ An open source full-stack web application framework for the Ruby programming lan
 * Complete thoughtbot's [Intro to Ruby on Rails Tutorial](http://upcase.com/intro-to-ruby-on-rails)
 * Complete Michael Hartl's [Rails Tutorial](http://ruby.railstutorial.org)
 * Complete [Rails for Zombies](http://railsforzombies.org)
+* Complete Abraham Kuri Vargas' [APIS ON RAILS](http://apionrails.icalialabs.com/book/chapter_three#sec-curl_test)
 * Push your code to [GitHub](http://github.com)
 * Deploy to [Heroku](http://heroku.com)
 
