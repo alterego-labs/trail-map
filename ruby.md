@@ -8,6 +8,7 @@ A dynamic, general-purpose object-oriented programming language that combines sy
 * Complete [RubyMonk exercises](http://rubymonk.com)
 * Read [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/)
 * Read [The Well-Grounded Rubyist](http://amzn.to/grounded-rubyist)
+* Read [The Bastards Book of Ruby](http://ruby.bastardsbook.com/toc/)
 * Read [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html)
 
 ### You should be able to
