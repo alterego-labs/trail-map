@@ -20,12 +20,15 @@ An open source full-stack web application framework for the Ruby programming lan
 * Validate ActiveRecord objects.
 * Whitelist ActiveRecord attributes.
 * Interpolate data in a view.
+* Make an API for your Rails App
 * Deploy your app to production.
 
 ## Intermediate Rails
 
 * Complete thoughtbot's [Intermediate Ruby on Rails Tutorial](http://upcase.com/intermediate-ruby-on-rails)
 * Read [Agile Web Development with Rails](http://pragprog.com/book/rails4/agile-web-development-with-rails-4)
+* Read [Rails Antipatterns](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/)
+* Read [The Rails View](http://www.amazon.com/The-Rails-View-Maintainable-Experience/dp/1934356875)
 * Read [Enterprise Rails](http://dan.chak.org/enterprise-rails/)
 * Watch [Humans Present: Refactoring](https://upcase.com/videos/refactoring)
 * Complete the [RailsApps tutorials](https://tutorials.railsapps.org)
@@ -42,6 +45,8 @@ An open source full-stack web application framework for the Ruby programming lan
 * Implement counter caches and advanced counters.
 * Implement file uploads.
 * Add pagination to your application.
+* Manage large code bases better
+* Keep views organized
 
 ## Advanced Rails
 * Complete [thoughtbot's Test-Driven Rails Tutorial](https://test-driven-rails)
